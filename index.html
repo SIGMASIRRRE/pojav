@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pojav Tierlist 1.9+</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="header">
+    <div class="menu-btn" onclick="toggleMenu()">&#9776;</div>
+    <h1>Pojav Tierlist 1.9+</h1>
+  </header>
+  <nav id="sidebar" class="sidebar">
+    <button onclick="loadSection('rules')">Rules & Info</button>
+    <button onclick="loadSection('overall')">Overall</button>
+    <button onclick="loadSection('netherite')">Netherite Potion</button>
+    <button onclick="loadSection('crystal')">Crystal PvP</button>
+    <button onclick="loadSection('diamond')">Diamond Potion</button>
+    <button onclick="loadSection('uhc')">UHC</button>
+    <button onclick="loadSection('axe')">Axe and Shield</button>
+    <button onclick="loadSection('smp')">SMP Kit</button>
+    <button onclick="loadSection('sword')">Sword</button>
+  </nav>
+  <main id="content" class="content"></main>
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,34 @@
+{
+  "overall": [
+    { "name": "HeroesLegendOP", "points": 1420 },
+    { "name": "Flexzor", "points": 1380 },
+    { "name": "Sxtream", "points": 1335 },
+    { "name": "Stony", "points": 1300 },
+    { "name": "Flexy", "points": 1275 }
+  ],
+  "netherite": {
+    "1": ["Flexy", "HeroesLegendOP"],
+    "2": ["Flexzor"],
+    "3": ["Sxtream"],
+    "4": ["Stony"],
+    "5": ["PlayerX"]
+  },
+  "crystal": {
+    "1": ["Flexzor"],
+    "2": ["PlayerA"],
+    "3": ["PlayerB"],
+    "4": ["PlayerC"],
+    "5": ["PlayerD"]
+  },
+  "diamond": {
+    "1": ["Player1"],
+    "2": ["Player2"],
+    "3": ["Player3"],
+    "4": ["Player4"],
+    "5": ["Player5"]
+  },
+  "uhc": { "1": [], "2": [], "3": [], "4": [], "5": [] },
+  "axe": { "1": [], "2": [], "3": [], "4": [], "5": [] },
+  "smp": { "1": [], "2": [], "3": [], "4": [], "5": [] },
+  "sword": { "1": [], "2": [], "3": [], "4": [], "5": [] }
+}
